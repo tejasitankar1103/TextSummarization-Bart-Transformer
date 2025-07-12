@@ -18,7 +18,7 @@ A project that performs both **extractive** and **abstractive** text summarizati
 - Python 3.8+
 - Hugging Face Transformers
 - Streamlit
-- NLTK / SpaCy (for optional preprocessing)
+
 
 ---
 
