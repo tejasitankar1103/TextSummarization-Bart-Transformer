@@ -51,21 +51,7 @@ streamlit run app.py
 python summarize.py
 ```
 
----
 
-## 🧾 Sample Input/Output
-
-**Input:**
-
-```
-The Amazon rainforest is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America...
-```
-
-**Output Summary:**
-
-```
-The Amazon rainforest, also known as Amazonia, covers much of the Amazon basin and is shared by multiple South American countries.
-```
 
 ---
 
@@ -80,22 +66,10 @@ text-summarization-bart/
 └── Cleaned_Text_Summarization.ipynb  # Jupyter notebook
 ```
 
----
 
-## 📸 Screenshots
 
-> Add screenshots here once deployed or during local testing.
 
----
 
-## 🔮 Future Improvements
-
-- Add extractive summarization toggle (TextRank)
-- Multi-language summarization
-- REST API endpoint using FastAPI
-- Model optimization for speed
-
----
 
 ## 📄 License
 
